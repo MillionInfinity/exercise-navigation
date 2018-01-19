@@ -1,0 +1,28 @@
+nav li{
+    
+    opacity: 0.5;
+    margin: 15px 15px;
+    text-transform: uppercase;
+    display: inline;
+    padding: 5px;
+    
+  }
+
+
+nav a:hover {
+    color: #b8d9ee;
+    transition: all 500ms;
+    background-color: black;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+ul a{
+text-decoration-line: none;
+}
+  
+a:visited {
+    
+    border-right: 5px;
+    border-right: 5px;
+}
